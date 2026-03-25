@@ -1,0 +1,13 @@
+from setuptools import setup, find_packages
+setup(
+    name="obesidad-enfermedades-metabolicas-latinoamerica-prevalencia-tendencias-2000-2024",
+    version="1.0.0",
+    description="Base de datos de obesidad y enfermedades metabólicas en América Latina (2000–2024): prevalencia, dia",
+    author="de la Serna, Juan Moisés",
+    url="https://github.com/juanmoisesd/obesidad-enfermedades-metabolicas-latinoamerica-prevalencia-tendencias-2000-2024",
+    packages=find_packages(),
+    install_requires=["pandas>=1.3.0","requests>=2.26.0"],
+    python_requires=">=3.7",
+    classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],
+    keywords="zenodo, open-data",
+)
