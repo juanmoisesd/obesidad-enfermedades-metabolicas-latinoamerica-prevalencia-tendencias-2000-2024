@@ -7,10 +7,9 @@
     }
   ],
   "keywords": [
-    "open-data",
     "research",
     "latin-america"
   ],
-  "description": "Base de datos de obesidad y enfermedades metabólicas en América Latina (2000–2024): prevalencia, diabetes, hipertensión, transición nutricional. OSF: https://osf.io/4gu25/\n\nDOI: https://github.com/juanmoisesd/obesidad-enfermedades-metabolicas-latinoamerica-prevalencia-tendencias-2000-2024\nGitHub: https://github.com/juanmoisesd/obesidad-enfermedades-metabolicas-latinoamerica-prevalencia-tendencias-2000-2024\nAuthor: de la Serna, Juan Moisés",
+  "description": "Base de datos de obesidad y enfermedades metabólicas en América Latina (2000–2024): prevalencia, diabetes, hipertensión, transición nutricional. OSF: https://osf.io/4gu25/\nDOI: https://github.com/juanmoisesd/obesidad-enfermedades-metabolicas-latinoamerica-prevalencia-tendencias-2000-2024",
   "isPrivate": false
 }
